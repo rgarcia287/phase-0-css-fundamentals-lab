@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  position: center;
+}
+
+#featured-property {
+  position: center;
+}
+
+#details {
+  position: center;
+  padding: 0px 10px 0px 10px;
+  background: grey;
+}
+
+figcaption {
+  font-size: small;
+  position: center;
+}
+
+p #featured-property {
+  width: 800px;
+  position: center;
+}
+
+div #details {
+  float: left;
+  width: 25%;
+}
+
